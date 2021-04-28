@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-task-hovered-squares/static/css/main.5720fb5b.chunk.css",
+    "main.js": "/test-task-hovered-squares/static/js/main.513d2926.chunk.js",
+    "main.js.map": "/test-task-hovered-squares/static/js/main.513d2926.chunk.js.map",
+    "runtime-main.js": "/test-task-hovered-squares/static/js/runtime-main.8875eb20.js",
+    "runtime-main.js.map": "/test-task-hovered-squares/static/js/runtime-main.8875eb20.js.map",
+    "static/js/2.0a6472d6.chunk.js": "/test-task-hovered-squares/static/js/2.0a6472d6.chunk.js",
+    "static/js/2.0a6472d6.chunk.js.map": "/test-task-hovered-squares/static/js/2.0a6472d6.chunk.js.map",
+    "static/js/3.fe0133e6.chunk.js": "/test-task-hovered-squares/static/js/3.fe0133e6.chunk.js",
+    "static/js/3.fe0133e6.chunk.js.map": "/test-task-hovered-squares/static/js/3.fe0133e6.chunk.js.map",
+    "index.html": "/test-task-hovered-squares/index.html",
+    "static/css/main.5720fb5b.chunk.css.map": "/test-task-hovered-squares/static/css/main.5720fb5b.chunk.css.map",
+    "static/js/2.0a6472d6.chunk.js.LICENSE.txt": "/test-task-hovered-squares/static/js/2.0a6472d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8875eb20.js",
+    "static/js/2.0a6472d6.chunk.js",
+    "static/css/main.5720fb5b.chunk.css",
+    "static/js/main.513d2926.chunk.js"
+  ]
+}
